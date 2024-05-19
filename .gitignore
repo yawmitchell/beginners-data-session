@@ -1,5 +1,6 @@
 ### https://www.gitignore.io/ ###
-
+# Solutions folder
+solutions/*
 # Caches
 **/.ipynb_checkpoints/*
 **/__pycache__/*
